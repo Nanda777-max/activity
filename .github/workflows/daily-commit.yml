@@ -2,6 +2,7 @@ name: Daily commit
 on:
   schedule:
     - cron: '0 12 * * *'
+  workflow_dispatch:
 jobs:
   commit:
     runs-on: ubuntu-latest
