@@ -1,8 +1,12 @@
-name: Daily commit
+name: Daily activity
+
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 2 * * *'    # 8am AEST
+    - cron: '0 6 * * *'    # 12pm AEST
+    - cron: '0 11 * * *'   # 9pm AEST
   workflow_dispatch:
+
 jobs:
   commit:
     runs-on: ubuntu-latest
@@ -10,9 +14,43 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Make empty commit
+
+      - name: Update activity log
         run: |
+          mkdir -p logs
+
+          # Array of random messages
+          messages=(
+            "Reviewed model performance metrics"
+            "Explored dataset features"
+            "Cleaned and preprocessed data"
+            "Analysed feature correlations"
+            "Tuned hyperparameters"
+            "Ran cross validation tests"
+            "Updated data pipeline"
+            "Checked model accuracy"
+            "Investigated outliers in dataset"
+            "Refactored data cleaning functions"
+            "Tested model on new data"
+            "Reviewed EDA findings"
+            "Optimised training loop"
+            "Updated feature engineering"
+            "Benchmarked model against baseline"
+            "Fixed data leakage issue"
+            "Validated predictions on test set"
+            "Explored new visualisation ideas"
+            "Reviewed and updated documentation"
+            "Analysed prediction errors"
+          )
+
+          # Pick a random message
+          RANDOM_MSG=${messages[$RANDOM % ${#messages[@]}]}
+
+          # Append to log with timestamp
+          echo "$(date '+%Y-%m-%d %H:%M:%S') — $RANDOM_MSG" >> logs/activity.md
+
           git config user.email "nandakishor.sajeev@gmail.com"
           git config user.name "Nanda777-max"
-          git commit --allow-empty -m "daily update"
+          git add logs/activity.md
+          git commit -m "$RANDOM_MSG — $(date +'%Y-%m-%d')"
           git push
