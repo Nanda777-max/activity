@@ -4,3 +4,4 @@
 2026-07-07 09:19:32 — Optimised training loop
 2026-07-07 13:21:26 — Explored dataset features
 2026-07-08 05:15:23 — Tested model on new data
+2026-07-08 08:04:31 — Investigated outliers in dataset
