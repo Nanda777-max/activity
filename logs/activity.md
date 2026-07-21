@@ -43,3 +43,4 @@
 2026-07-20 08:34:28 — Reviewed EDA findings
 2026-07-20 13:06:25 — Ran cross validation tests
 2026-07-21 05:14:41 — Ran cross validation tests
+2026-07-21 08:04:06 — Optimised training loop
