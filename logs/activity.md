@@ -86,3 +86,4 @@
 2026-08-03 13:40:58 — Validated predictions on test set
 2026-08-04 04:56:40 — Ran cross validation tests
 2026-08-04 08:13:48 — Optimised training loop
+2026-08-04 13:02:51 — Fixed data leakage issue
