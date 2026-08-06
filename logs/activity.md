@@ -92,3 +92,4 @@
 2026-08-05 12:52:27 — Explored new visualisation ideas
 2026-08-06 04:59:03 — Analysed prediction errors
 2026-08-06 08:11:05 — Validated predictions on test set
+2026-08-06 12:56:24 — Investigated outliers in dataset
