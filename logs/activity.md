@@ -105,3 +105,4 @@
 2026-08-10 03:45:35 — Tested model on new data
 2026-08-10 07:04:30 — Validated predictions on test set
 2026-08-10 11:46:48 — Refactored data cleaning functions
+2026-08-11 03:27:38 — Investigated outliers in dataset
