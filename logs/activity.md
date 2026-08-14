@@ -115,3 +115,4 @@
 2026-08-13 07:07:39 — Updated feature engineering
 2026-08-13 11:46:12 — Investigated outliers in dataset
 2026-08-14 03:58:53 — Benchmarked model against baseline
+2026-08-14 07:03:50 — Explored new visualisation ideas
