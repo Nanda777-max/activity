@@ -119,3 +119,4 @@
 2026-08-14 11:42:48 — Ran cross validation tests
 2026-08-15 02:44:45 — Ran cross validation tests
 2026-08-15 06:17:19 — Refactored data cleaning functions
+2026-08-15 11:19:45 — Investigated outliers in dataset
