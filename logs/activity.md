@@ -140,3 +140,4 @@
 2026-08-21 11:25:34 — Investigated outliers in dataset
 2026-08-22 02:47:17 — Explored dataset features
 2026-08-22 06:18:26 — Benchmarked model against baseline
+2026-08-22 11:20:11 — Reviewed EDA findings
