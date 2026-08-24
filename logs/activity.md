@@ -146,3 +146,4 @@
 2026-08-23 11:20:15 — Cleaned and preprocessed data
 2026-08-24 02:56:16 — Explored new visualisation ideas
 2026-08-24 06:32:40 — Explored dataset features
+2026-08-24 11:28:08 — Ran cross validation tests
