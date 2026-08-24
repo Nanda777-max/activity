@@ -145,3 +145,4 @@
 2026-08-23 06:20:02 — Checked model accuracy
 2026-08-23 11:20:15 — Cleaned and preprocessed data
 2026-08-24 02:56:16 — Explored new visualisation ideas
+2026-08-24 06:32:40 — Explored dataset features
