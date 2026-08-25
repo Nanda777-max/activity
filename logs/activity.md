@@ -149,3 +149,4 @@
 2026-08-24 11:28:08 — Ran cross validation tests
 2026-08-25 02:51:47 — Updated data pipeline
 2026-08-25 06:23:24 — Optimised training loop
+2026-08-25 11:27:08 — Investigated outliers in dataset
