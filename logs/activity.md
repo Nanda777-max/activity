@@ -158,3 +158,4 @@
 2026-08-27 20:54:41 — Explored new visualisation ideas
 2026-08-28 13:37:05 — Tuned hyperparameters
 2026-08-28 17:47:49 — Updated data pipeline
+2026-08-28 21:19:33 — Ran cross validation tests
