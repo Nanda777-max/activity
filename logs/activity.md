@@ -173,3 +173,4 @@
 2026-09-01 15:23:42 — Checked model accuracy
 2026-09-02 06:40:05 — Fixed data leakage issue
 2026-09-02 10:04:29 — Tuned hyperparameters
+2026-09-02 14:58:52 — Explored dataset features
