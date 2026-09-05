@@ -182,3 +182,4 @@
 2026-09-04 14:49:32 — Cleaned and preprocessed data
 2026-09-05 06:32:48 — Investigated outliers in dataset
 2026-09-05 09:33:18 — Tested model on new data
+2026-09-05 13:40:58 — Analysed prediction errors
