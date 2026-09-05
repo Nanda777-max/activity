@@ -180,3 +180,4 @@
 2026-09-04 06:47:28 — Optimised training loop
 2026-09-04 10:03:55 — Tested model on new data
 2026-09-04 14:49:32 — Cleaned and preprocessed data
+2026-09-05 06:32:48 — Investigated outliers in dataset
