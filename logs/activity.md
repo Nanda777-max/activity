@@ -191,3 +191,4 @@
 2026-09-07 16:17:26 — Explored new visualisation ideas
 2026-09-08 06:46:51 — Optimised training loop
 2026-09-08 10:11:16 — Tuned hyperparameters
+2026-09-08 14:55:41 — Optimised training loop
