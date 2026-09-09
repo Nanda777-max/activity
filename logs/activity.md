@@ -194,3 +194,4 @@
 2026-09-08 14:55:41 — Optimised training loop
 2026-09-09 06:55:39 — Checked model accuracy
 2026-09-09 10:15:08 — Explored new visualisation ideas
+2026-09-09 15:01:10 — Reviewed EDA findings
