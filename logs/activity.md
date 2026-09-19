@@ -224,3 +224,4 @@
 2026-09-18 14:47:34 — Ran cross validation tests
 2026-09-19 06:53:11 — Validated predictions on test set
 2026-09-19 09:50:17 — Explored new visualisation ideas
+2026-09-19 14:11:35 — Cleaned and preprocessed data
