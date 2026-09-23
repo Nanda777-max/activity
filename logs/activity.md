@@ -236,3 +236,4 @@
 2026-09-22 15:25:48 — Tuned hyperparameters
 2026-09-23 07:03:54 — Benchmarked model against baseline
 2026-09-23 10:22:34 — Explored new visualisation ideas
+2026-09-23 15:19:24 — Reviewed EDA findings
