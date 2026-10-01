@@ -260,3 +260,4 @@
 2026-09-30 16:41:05 — Explored dataset features
 2026-10-01 08:04:52 — Explored new visualisation ideas
 2026-10-01 11:57:02 — Benchmarked model against baseline
+2026-10-01 17:16:42 — Ran cross validation tests
