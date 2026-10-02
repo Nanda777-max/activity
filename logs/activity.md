@@ -261,3 +261,4 @@
 2026-10-01 08:04:52 — Explored new visualisation ideas
 2026-10-01 11:57:02 — Benchmarked model against baseline
 2026-10-01 17:16:42 — Ran cross validation tests
+2026-10-02 07:47:27 — Analysed feature correlations
