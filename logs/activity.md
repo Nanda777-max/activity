@@ -266,3 +266,4 @@
 2026-10-02 16:30:38 — Optimised training loop
 2026-10-03 07:21:47 — Reviewed EDA findings
 2026-10-03 10:44:19 — Fixed data leakage issue
+2026-10-03 15:03:33 — Ran cross validation tests
