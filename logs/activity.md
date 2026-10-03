@@ -264,3 +264,4 @@
 2026-10-02 07:47:27 — Analysed feature correlations
 2026-10-02 11:28:19 — Updated feature engineering
 2026-10-02 16:30:38 — Optimised training loop
+2026-10-03 07:21:47 — Reviewed EDA findings
