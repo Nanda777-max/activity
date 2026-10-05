@@ -272,3 +272,4 @@
 2026-10-04 15:40:44 — Updated feature engineering
 2026-10-05 08:00:28 — Investigated outliers in dataset
 2026-10-05 12:51:13 — Refactored data cleaning functions
+2026-10-05 19:32:22 — Explored new visualisation ideas
