@@ -273,3 +273,4 @@
 2026-10-05 08:00:28 — Investigated outliers in dataset
 2026-10-05 12:51:13 — Refactored data cleaning functions
 2026-10-05 19:32:22 — Explored new visualisation ideas
+2026-10-06 08:22:38 — Fixed data leakage issue
