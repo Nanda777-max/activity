@@ -283,3 +283,4 @@
 2026-10-08 12:21:34 — Validated predictions on test set
 2026-10-08 17:45:04 — Reviewed EDA findings
 2026-10-09 08:14:04 — Refactored data cleaning functions
+2026-10-09 12:11:32 — Investigated outliers in dataset
