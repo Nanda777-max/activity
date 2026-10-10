@@ -286,3 +286,4 @@
 2026-10-09 12:11:32 — Investigated outliers in dataset
 2026-10-09 17:21:11 — Tested model on new data
 2026-10-10 07:56:32 — Analysed feature correlations
+2026-10-10 11:29:07 — Fixed data leakage issue
