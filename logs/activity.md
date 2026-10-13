@@ -295,3 +295,4 @@
 2026-10-12 13:42:34 — Analysed prediction errors
 2026-10-12 20:07:50 — Optimised training loop
 2026-10-13 08:46:06 — Reviewed and updated documentation
+2026-10-13 13:03:32 — Investigated outliers in dataset
