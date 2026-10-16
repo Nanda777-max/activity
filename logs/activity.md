@@ -304,3 +304,4 @@
 2026-10-15 10:27:54 — Reviewed model performance metrics
 2026-10-15 15:30:12 — Fixed data leakage issue
 2026-10-16 06:36:01 — Explored new visualisation ideas
+2026-10-16 10:15:23 — Optimised training loop
