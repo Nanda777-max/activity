@@ -307,3 +307,4 @@
 2026-10-16 10:15:23 — Optimised training loop
 2026-10-16 15:14:41 — Benchmarked model against baseline
 2026-10-17 06:25:27 — Ran cross validation tests
+2026-10-17 09:49:04 — Analysed prediction errors
