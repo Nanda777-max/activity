@@ -306,3 +306,4 @@
 2026-10-16 06:36:01 — Explored new visualisation ideas
 2026-10-16 10:15:23 — Optimised training loop
 2026-10-16 15:14:41 — Benchmarked model against baseline
+2026-10-17 06:25:27 — Ran cross validation tests
