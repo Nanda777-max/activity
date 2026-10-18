@@ -309,3 +309,4 @@
 2026-10-17 06:25:27 — Ran cross validation tests
 2026-10-17 09:49:04 — Analysed prediction errors
 2026-10-17 14:04:20 — Tuned hyperparameters
+2026-10-18 06:50:00 — Explored new visualisation ideas
