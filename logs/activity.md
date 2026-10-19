@@ -313,3 +313,4 @@
 2026-10-18 10:00:45 — Reviewed EDA findings
 2026-10-18 14:19:23 — Explored new visualisation ideas
 2026-10-19 07:09:05 — Reviewed and updated documentation
+2026-10-19 11:24:46 — Explored dataset features
