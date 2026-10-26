@@ -335,3 +335,4 @@
 2026-10-25 14:51:23 — Cleaned and preprocessed data
 2026-10-26 07:15:36 — Explored new visualisation ideas
 2026-10-26 11:42:39 — Updated feature engineering
+2026-10-26 17:08:09 — Reviewed model performance metrics
