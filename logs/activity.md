@@ -336,3 +336,4 @@
 2026-10-26 07:15:36 — Explored new visualisation ideas
 2026-10-26 11:42:39 — Updated feature engineering
 2026-10-26 17:08:09 — Reviewed model performance metrics
+2026-10-27 07:06:52 — Optimised training loop
