@@ -355,3 +355,4 @@
 2026-11-01 12:10:21 — Analysed prediction errors
 2026-11-01 17:00:00 — Ran cross validation tests
 2026-11-02 08:40:27 — Analysed prediction errors
+2026-11-02 13:59:17 — Explored new visualisation ideas
