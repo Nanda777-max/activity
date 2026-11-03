@@ -358,3 +358,4 @@
 2026-11-02 13:59:17 — Explored new visualisation ideas
 2026-11-02 20:38:00 — Ran cross validation tests
 2026-11-03 08:52:16 — Optimised training loop
+2026-11-03 13:07:58 — Explored new visualisation ideas
