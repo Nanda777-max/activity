@@ -380,3 +380,4 @@
 2026-11-09 21:18:00 — Explored new visualisation ideas
 2026-11-10 09:00:31 — Reviewed and updated documentation
 2026-11-10 13:52:25 — Ran cross validation tests
+2026-11-10 18:28:59 — Reviewed EDA findings
