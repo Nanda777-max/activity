@@ -392,3 +392,4 @@
 2026-11-13 18:24:38 — Benchmarked model against baseline
 2026-11-14 08:22:41 — Cleaned and preprocessed data
 2026-11-14 12:37:10 — Updated feature engineering
+2026-11-14 16:51:24 — Explored new visualisation ideas
