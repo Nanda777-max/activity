@@ -419,3 +419,4 @@
 2026-11-22 18:15:08 — Analysed prediction errors
 2026-11-23 10:02:57 — Investigated outliers in dataset
 2026-11-23 16:41:04 — Optimised training loop
+2026-11-23 22:27:37 — Explored new visualisation ideas
