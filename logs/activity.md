@@ -420,3 +420,4 @@
 2026-11-23 10:02:57 — Investigated outliers in dataset
 2026-11-23 16:41:04 — Optimised training loop
 2026-11-23 22:27:37 — Explored new visualisation ideas
+2026-11-24 11:57:15 — Validated predictions on test set
