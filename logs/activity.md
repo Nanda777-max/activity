@@ -423,3 +423,4 @@
 2026-11-24 11:57:15 — Validated predictions on test set
 2026-11-24 16:37:10 — Refactored data cleaning functions
 2026-11-24 20:59:33 — Explored new visualisation ideas
+2026-11-25 10:43:49 — Explored dataset features
