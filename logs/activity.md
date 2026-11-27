@@ -429,3 +429,4 @@
 2026-11-26 10:15:17 — Checked model accuracy
 2026-11-26 15:54:45 — Validated predictions on test set
 2026-11-26 19:59:28 — Cleaned and preprocessed data
+2026-11-27 10:21:33 — Optimised training loop
